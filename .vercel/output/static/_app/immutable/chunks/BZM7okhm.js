@@ -1,0 +1,1 @@
+import{aw as o,au as v,_ as y,n as f,aX as l,bc as m,b7 as p,b8 as i,r as T,av as b}from"./v1j4_0zb.js";import{B as A}from"./DLArajtM.js";function E(_,d,e){var s;o&&(s=b,v());var r=new A(_);y(()=>{var a=d()??null;if(o){var c=l(s),h=c===T,u=a!==null;if(h!==u){var t=m();p(t),r.anchor=t,i(!1),r.ensure(a,a&&(n=>e(n,a))),i(!0);return}}r.ensure(a,a&&(n=>e(n,a)))},f)}export{E as c};
